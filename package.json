@@ -1,0 +1,27 @@
+{
+  "name": "api-rest-node.js",
+  "version": "1.0.0",
+  "description": "API Rest utilizando Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnersilvafilho/API-Rest-Node.JS.git"
+  },
+  "author": "wagnersilvafilho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnersilvafilho/API-Rest-Node.JS/issues"
+  },
+  "homepage": "https://github.com/wagnersilvafilho/API-Rest-Node.JS#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
